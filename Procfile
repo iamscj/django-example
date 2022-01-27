@@ -1,1 +1,1 @@
-web gunicorn travello.wsgi:application --log-file -
+web gunicorn shreyasa.wsgi:application --log-file -
